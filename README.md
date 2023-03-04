@@ -29,3 +29,5 @@ This will start the application and make it available at http://localhost:8000.
     7. Create a task definition for the application.
     8. Create a service for the task definition.
     9. Access the application through the public IP address of the EC2 instance.
+
+## This project is still in development..
